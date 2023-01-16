@@ -6456,34 +6456,34 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Interior 2@64x64_76: 21300292
-      Interior 2@64x64_233: 21300606
       Interior 2@64x64_106: 21300352
       Interior 2@64x64_108: 21300356
       Interior 2@64x64_26: 21300192
       Interior 2@64x64_40: 21300220
+      Interior 2@64x64_14: 21300168
       Interior 2@64x64_119: 21300378
       Interior 2@64x64_228: 21300596
+      Interior 2@64x64_75: 21300290
       Interior 2@64x64_58: 21300256
       Interior 2@64x64_161: 21300462
       Interior 2@64x64_171: 21300482
       Interior 2@64x64_36: 21300212
       Interior 2@64x64_17: 21300174
       Interior 2@64x64_82: 21300304
-      Interior 2@64x64_205: 21300550
       Interior 2@64x64_230: 21300600
       Interior 2@64x64_21: 21300182
       Interior 2@64x64_73: 21300286
-      Interior 2@64x64_96: 21300332
+      Interior 2@64x64_253: 21300646
       Interior 2@64x64_12: 21300164
       Interior 2@64x64_52: 21300244
-      Interior 2@64x64_84: 21300308
+      Interior 2@64x64_96: 21300332
       Interior 2@64x64_243: 21300626
-      Interior 2@64x64_224: 21300588
+      Interior 2@64x64_84: 21300308
       Interior 2@64x64_46: 21300232
       Interior 2@64x64_128: 21300396
-      Interior 2@64x64_231: 21300602
+      Interior 2@64x64_224: 21300588
       Interior 2@64x64_131: 21300402
+      Interior 2@64x64_231: 21300602
       Interior 2@64x64_177: 21300494
       Interior 2@64x64_27: 21300194
       Interior 2@64x64_158: 21300456
@@ -6492,7 +6492,6 @@ TextureImporter:
       Interior 2@64x64_193: 21300526
       Interior 2@64x64_156: 21300452
       Interior 2@64x64_121: 21300382
-      Interior 2@64x64_253: 21300646
       Interior 2@64x64_127: 21300394
       Interior 2@64x64_248: 21300636
       Interior 2@64x64_172: 21300484
@@ -6588,8 +6587,8 @@ TextureImporter:
       Interior 2@64x64_132: 21300404
       Interior 2@64x64_241: 21300622
       Interior 2@64x64_67: 21300274
-      Interior 2@64x64_200: 21300540
       Interior 2@64x64_252: 21300644
+      Interior 2@64x64_200: 21300540
       Interior 2@64x64_118: 21300376
       Interior 2@64x64_142: 21300424
       Interior 2@64x64_145: 21300430
@@ -6602,9 +6601,9 @@ TextureImporter:
       Interior 2@64x64_166: 21300472
       Interior 2@64x64_133: 21300406
       Interior 2@64x64_178: 21300496
+      Interior 2@64x64_242: 21300624
       Interior 2@64x64_60: 21300260
       Interior 2@64x64_20: 21300180
-      Interior 2@64x64_242: 21300624
       Interior 2@64x64_51: 21300242
       Interior 2@64x64_247: 21300634
       Interior 2@64x64_254: 21300648
@@ -6693,25 +6692,26 @@ TextureImporter:
       Interior 2@64x64_115: 21300370
       Interior 2@64x64_227: 21300594
       Interior 2@64x64_59: 21300258
-      Interior 2@64x64_100: 21300340
+      Interior 2@64x64_205: 21300550
       Interior 2@64x64_103: 21300346
+      Interior 2@64x64_100: 21300340
       Interior 2@64x64_188: 21300516
       Interior 2@64x64_116: 21300372
-      Interior 2@64x64_251: 21300642
       Interior 2@64x64_226: 21300592
+      Interior 2@64x64_251: 21300642
       Interior 2@64x64_48: 21300236
       Interior 2@64x64_97: 21300334
       Interior 2@64x64_13: 21300166
       Interior 2@64x64_31: 21300202
       Interior 2@64x64_2: 21300144
+      Interior 2@64x64_233: 21300606
       Interior 2@64x64_49: 21300238
       Interior 2@64x64_122: 21300384
-      Interior 2@64x64_126: 21300392
       Interior 2@64x64_42: 21300224
-      Interior 2@64x64_14: 21300168
+      Interior 2@64x64_126: 21300392
       Interior 2@64x64_77: 21300294
       Interior 2@64x64_130: 21300400
-      Interior 2@64x64_75: 21300290
+      Interior 2@64x64_76: 21300292
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

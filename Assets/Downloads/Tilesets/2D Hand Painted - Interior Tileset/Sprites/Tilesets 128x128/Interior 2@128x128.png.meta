@@ -6495,8 +6495,8 @@ TextureImporter:
       Interior 2@128x128_155: 21300450
       Interior 2@128x128_89: 21300318
       Interior 2@128x128_112: 21300364
-      Interior 2@128x128_126: 21300392
       Interior 2@128x128_169: 21300478
+      Interior 2@128x128_126: 21300392
       Interior 2@128x128_171: 21300482
       Interior 2@128x128_192: 21300524
       Interior 2@128x128_50: 21300240
@@ -6590,12 +6590,12 @@ TextureImporter:
       Interior 2@128x128_9: 21300158
       Interior 2@128x128_69: 21300278
       Interior 2@128x128_118: 21300376
-      Interior 2@128x128_66: 21300272
-      Interior 2@128x128_67: 21300274
       Interior 2@128x128_217: 21300574
+      Interior 2@128x128_66: 21300272
       Interior 2@128x128_129: 21300398
       Interior 2@128x128_79: 21300298
       Interior 2@128x128_235: 21300610
+      Interior 2@128x128_67: 21300274
       Interior 2@128x128_130: 21300400
       Interior 2@128x128_85: 21300310
       Interior 2@128x128_122: 21300384
@@ -6612,19 +6612,19 @@ TextureImporter:
       Interior 2@128x128_91: 21300322
       Interior 2@128x128_175: 21300490
       Interior 2@128x128_14: 21300168
-      Interior 2@128x128_42: 21300224
       Interior 2@128x128_64: 21300268
-      Interior 2@128x128_3: 21300146
-      Interior 2@128x128_105: 21300350
       Interior 2@128x128_76: 21300292
+      Interior 2@128x128_3: 21300146
+      Interior 2@128x128_195: 21300530
+      Interior 2@128x128_105: 21300350
       Interior 2@128x128_185: 21300510
       Interior 2@128x128_194: 21300528
       Interior 2@128x128_40: 21300220
-      Interior 2@128x128_195: 21300530
+      Interior 2@128x128_42: 21300224
       Interior 2@128x128_70: 21300280
       Interior 2@128x128_145: 21300430
-      Interior 2@128x128_71: 21300282
       Interior 2@128x128_222: 21300584
+      Interior 2@128x128_71: 21300282
       Interior 2@128x128_246: 21300632
       Interior 2@128x128_55: 21300250
       Interior 2@128x128_178: 21300496

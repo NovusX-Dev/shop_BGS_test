@@ -14496,7 +14496,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Body|Side|side_body: 21300130
+      Equipment Side|Shoulder Pads|shoulderpad_1_side_R: 21300590
       Head Objects|Headwear|cap_1_up_tintable: 21300918
       Equipment Up|Shirts|sprite_up_body: 21301082
       Equipment Up|Gloves|ring_up_R_hand: 21300648
@@ -14523,15 +14523,15 @@ TextureImporter:
       Equipment Side|Shoes|armour_side_R_foot: 21300560
       Body|Down|down_L_lower_arm_tintable: 21300010
       Body|Up|up_head: 21300216
-      Head Objects|Headwear|helm_2_up: 21300954
+      Weapon Objects|thrust_sprite: 21301116
       Head Objects|Facial Hair|facial_hair_3_side: 21300778
-      Weapon Objects|bow_1: 21300962
+      Head Objects|Headwear|helm_2_up: 21300954
       Body|Side|side_L_foot: 21300078
       Equipment Down|Shirts|tunic_down_body_tintable: 21300360
+      Weapon Objects|bow_1: 21300962
       Equipment Side|Shoes|sandals_side_R_foot_tintable: 21300586
       Body|Side|side_eyes: 21300142
       Head ObjectsHairhair_10_side: 21301194
-      Weapon Objects|thrust_sprite: 21301116
       Equipment Side|Shoes|boot_side_R_foot: 21300576
       Equipment Side|Shoes|armour_side_L_lower_leg: 21300556
       Head Objects|Hair|hair_6_side_tintable: 21300866
@@ -14559,12 +14559,12 @@ TextureImporter:
       Head Objects|Facial Hair|facial_hair_4_side: 21300786
       Body|Down|down_eyes_brown: 21300064
       Equipment Down|Shoes|sandals_down_R_foot: 21300402
-      Equipment Side|Pants|scalemail_side_L_lower_leg: 21300492
+      Equipment Up|Shirts|scalemail_up_L_upper_arm: 21300690
       Body|Up|up_R_upper_leg_tintable: 21300206
       Body|Up|up_L_upper_arm_tintable: 21300178
-      Equipment Up|Shirts|scalemail_up_L_upper_arm: 21300690
-      Equipment Down|Shirts|shirt_down_body: 21300350
       Head ObjectsHairhair_8_up: 21301164
+      Equipment Down|Shirts|shirt_down_body: 21300350
+      Equipment Side|Pants|scalemail_side_L_lower_leg: 21300492
       Equipment Down|Shoulder Pads|shoulderpad_4_down_R: 21300420
       Body|Side|side_L_lower_arm: 21300086
       Head Objects|Headwear|cap_2_up: 21300928
@@ -14640,13 +14640,13 @@ TextureImporter:
       Equipment Down|Shoes|sandals_down_L_foot_tintable: 21300400
       Equipment Down|Shoes|sprite_down_L_foot: 21300998
       Equipment Down|Shoes|armour_down_R_lower_leg: 21300372
-      Equipment Down|Shoes|boot_down_L_foot: 21300374
+      Head ObjectsHairhair_10_down: 21301196
       Equipment Side|Shoulder Pads|sprite_side_L: 21301050
       Equipment Down|Gloves|gauntlet_down_R_hand: 21300250
       Equipment Side|Shirts|tunic_side_chest: 21300550
       Equipment Down|Shirts|tunic_down_chest_tintable: 21300364
+      Equipment Down|Shoes|boot_down_L_foot: 21300374
       Head Objects|Headwear|cap_1_side: 21300912
-      Head ObjectsHairhair_10_down: 21301196
       Head Objects|Headwear|cap_1_down_tintable: 21300910
       Equipment Up|Pants|cloth_up_R_lower_leg_tintable: 21300662
       Body_Down_down_eyebrows_2_tintable: 21301140
@@ -14662,10 +14662,10 @@ TextureImporter:
       Body|Up|up_head_tintable: 21300218
       Head Objects|Hair|hair_1_up: 21300810
       Body|Up|up_R_lower_arm: 21300192
-      Equipment Side|Gloves|glove_side_L_hand: 21300456
       Equipment Up|Gloves|glove_up_R_hand: 21300640
-      Head Objects|Headwear|helm_1_down: 21300944
+      Equipment Side|Gloves|glove_side_L_hand: 21300456
       Equipment Down|Shoulder Pads|shoulderpad_3_down_L: 21300414
+      Head Objects|Headwear|helm_1_down: 21300944
       Equipment Side|Pants|cloth_side_R_upper_leg_tintable: 21300486
       Equipment Down|Armours|sprite_down_body: 21300970
       Equipment Down|Shirts|sprite_down_R_upper_arm: 21300992
@@ -14777,6 +14777,7 @@ TextureImporter:
       Equipment Side|Shirts|shirt_side_L_upper_arm: 21300530
       Equipment Down|Pants|cloth_down_R_upper_leg: 21300284
       Head Objects|Hair|hair_3_side_tintable: 21300830
+      Head ObjectsHairhair_9_down: 21301200
       Body|Down|down_head: 21300074
       Equipment Down|Pants|scalemail_down_R_lower_leg: 21300296
       Equipment Side|Shirts|shirt_side_chest_tintable: 21300544
@@ -14786,7 +14787,6 @@ TextureImporter:
       Equipment Up|Pants|cloth_up_hip: 21300668
       Body|Up|up_R_foot_tintable: 21300186
       Equipment Side|Pants|cloth_side_L_lower_leg_tintable: 21300474
-      Head ObjectsHairhair_9_down: 21301200
       Equipment Down|Shoulder Pads|shoulderpad_2_down_R: 21300412
       Equipment Up|Shoes|boot_up_R_foot_tintable: 21300734
       Body|Up|up_R_upper_arm_tintable: 21300202
@@ -14795,8 +14795,8 @@ TextureImporter:
       Equipment Side|Shoes|armour_side_R_lower_leg: 21300562
       Equipment Side|Armours|armour_1_side_body: 21300424
       Equipment Up|Gloves|ring_up_R_hand_tintable: 21300650
-      Equipment Up|Shirts|scalemail_up_chest: 21300696
       Head Objects|Headwear|helm_1_up: 21300948
+      Equipment Up|Shirts|scalemail_up_chest: 21300696
       Head Objects|Hair|hair_2_side: 21300816
       Equipment Down|Pants|cloth_down_R_lower_leg: 21300280
       Equipment Side|Shirts|scalemail_side_chest: 21300528
@@ -14805,12 +14805,12 @@ TextureImporter:
       Equipment Side|Pants|cloth_side_hip_tintable: 21300490
       Body|Up|up_R_upper_leg: 21300204
       Body|Side|side_R_foot: 21300106
-      Body_Side_side_eyebrows_tintable: 21300140
       Equipment Up|Shirts|cloth_up_R_lower_arm_tintable: 21300308
+      Equipment Down|Shoes|armour_down_R_foot: 21300370
       Body|Up|up_L_upper_arm: 21300176
       Equipment Down|Gloves|ring_down_L_hand_tintable_tintable: 21300264
+      Body_Side_side_eyebrows_tintable: 21300140
       Equipment Down|Shoes|sprite_down_R_lower_leg: 21301004
-      Equipment Down|Shoes|armour_down_R_foot: 21300370
       Head Objects|Facial Hair|facial_hair_1_down_tintable: 21300760
       Equipment Up|Shoes|sandals_up_L_foot: 21300736
       Equipment Side|Gloves|ring_side_R_hand: 21300468
@@ -15094,7 +15094,7 @@ TextureImporter:
       Weapon Objects|thrust_spear_1: 21301134
       Body_Side_side_eyebrows_3_tintable: 21301148
       Equipment Side|Shoulder Pads|shoulderpad_4_side_R: 21300602
-      Equipment Side|Shoulder Pads|shoulderpad_1_side_R: 21300590
+      Body|Side|side_body: 21300130
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

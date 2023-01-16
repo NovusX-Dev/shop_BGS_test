@@ -1639,8 +1639,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Shadows@128x128_20: 21300040
-      Shadows@128x128_52: 21300104
-      Shadows@128x128_62: 21300124
+      Shadows@128x128_41: 21300082
       Shadows@128x128_8: 21300016
       Shadows@128x128_4: 21300008
       Shadows@128x128_40: 21300080
@@ -1678,8 +1677,8 @@ TextureImporter:
       Shadows@128x128_33: 21300066
       Shadows@128x128_43: 21300086
       Shadows@128x128_27: 21300054
-      Shadows@128x128_28: 21300056
       Shadows@128x128_48: 21300096
+      Shadows@128x128_28: 21300056
       Shadows@128x128_47: 21300094
       Shadows@128x128_23: 21300046
       Shadows@128x128_57: 21300114
@@ -1698,8 +1697,9 @@ TextureImporter:
       Shadows@128x128_12: 21300024
       Shadows@128x128_37: 21300074
       Shadows@128x128_29: 21300058
-      Shadows@128x128_41: 21300082
+      Shadows@128x128_52: 21300104
       Shadows@128x128_26: 21300052
+      Shadows@128x128_62: 21300124
       Shadows@128x128_46: 21300092
       Shadows@128x128_24: 21300048
   spritePackingTag: 

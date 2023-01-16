@@ -6267,27 +6267,27 @@ TextureImporter:
       Interior 2 Color 3@64x64_49: 21300098
       Interior 2 Color 3@64x64_22: 21300044
       Interior 2 Color 3@64x64_218: 21300436
+      Interior 2 Color 3@64x64_252: 21300504
       Interior 2 Color 3@64x64_147: 21300294
-      Interior 2 Color 3@64x64_170: 21300340
       Interior 2 Color 3@64x64_4: 21300008
+      Interior 2 Color 3@64x64_170: 21300340
       Interior 2 Color 3@64x64_85: 21300170
       Interior 2 Color 3@64x64_67: 21300134
-      Interior 2 Color 3@64x64_128: 21300256
       Interior 2 Color 3@64x64_66: 21300132
       Interior 2 Color 3@64x64_13: 21300026
-      Interior 2 Color 3@64x64_157: 21300314
+      Interior 2 Color 3@64x64_201: 21300402
+      Interior 2 Color 3@64x64_255: 21300510
       Interior 2 Color 3@64x64_130: 21300260
+      Interior 2 Color 3@64x64_157: 21300314
+      Interior 2 Color 3@64x64_128: 21300256
       Interior 2 Color 3@64x64_213: 21300426
       Interior 2 Color 3@64x64_59: 21300118
-      Interior 2 Color 3@64x64_231: 21300462
       Interior 2 Color 3@64x64_70: 21300140
-      Interior 2 Color 3@64x64_222: 21300444
-      Interior 2 Color 3@64x64_201: 21300402
+      Interior 2 Color 3@64x64_231: 21300462
       Interior 2 Color 3@64x64_219: 21300438
-      Interior 2 Color 3@64x64_252: 21300504
+      Interior 2 Color 3@64x64_222: 21300444
       Interior 2 Color 3@64x64_233: 21300466
       Interior 2 Color 3@64x64_96: 21300192
-      Interior 2 Color 3@64x64_255: 21300510
       Interior 2 Color 3@64x64_40: 21300080
       Interior 2 Color 3@64x64_208: 21300416
       Interior 2 Color 3@64x64_192: 21300384
@@ -6391,13 +6391,13 @@ TextureImporter:
       Interior 2 Color 3@64x64_1: 21300002
       Interior 2 Color 3@64x64_6: 21300012
       Interior 2 Color 3@64x64_68: 21300136
-      Interior 2 Color 3@64x64_78: 21300156
+      Interior 2 Color 3@64x64_236: 21300472
       Interior 2 Color 3@64x64_197: 21300394
       Interior 2 Color 3@64x64_134: 21300268
-      Interior 2 Color 3@64x64_133: 21300266
-      Interior 2 Color 3@64x64_236: 21300472
+      Interior 2 Color 3@64x64_78: 21300156
       Interior 2 Color 3@64x64_26: 21300052
       Interior 2 Color 3@64x64_76: 21300152
+      Interior 2 Color 3@64x64_133: 21300266
       Interior 2 Color 3@64x64_91: 21300182
       Interior 2 Color 3@64x64_30: 21300060
       Interior 2 Color 3@64x64_89: 21300178
@@ -6414,8 +6414,8 @@ TextureImporter:
       Interior 2 Color 3@64x64_129: 21300258
       Interior 2 Color 3@64x64_8: 21300016
       Interior 2 Color 3@64x64_143: 21300286
-      Interior 2 Color 3@64x64_24: 21300048
       Interior 2 Color 3@64x64_215: 21300430
+      Interior 2 Color 3@64x64_24: 21300048
       Interior 2 Color 3@64x64_5: 21300010
       Interior 2 Color 3@64x64_90: 21300180
       Interior 2 Color 3@64x64_50: 21300100

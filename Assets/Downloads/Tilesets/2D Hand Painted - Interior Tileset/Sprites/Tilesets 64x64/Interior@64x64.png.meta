@@ -6984,7 +6984,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Interior@64x64_142: 21300792
+      Interior@64x64_162: 21300832
       Interior@64x64_197: 21300902
       Interior@64x64_176: 21300860
       Interior@64x64_23: 21300554
@@ -7111,9 +7111,9 @@ TextureImporter:
       Interior@64x64_201: 21300910
       Interior@64x64_37: 21300582
       Interior@64x64_76: 21300660
-      Interior@64x64_125: 21300758
-      Interior@64x64_153: 21300814
       Interior@64x64_204: 21300916
+      Interior@64x64_153: 21300814
+      Interior@64x64_125: 21300758
       Interior@64x64_193: 21300894
       Interior@64x64_139: 21300786
       Interior@64x64_3: 21300514
@@ -7238,7 +7238,7 @@ TextureImporter:
       Interior@64x64_108: 21300724
       Interior@64x64_208: 21300924
       Interior@64x64_247: 21301002
-      Interior@64x64_162: 21300832
+      Interior@64x64_142: 21300792
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

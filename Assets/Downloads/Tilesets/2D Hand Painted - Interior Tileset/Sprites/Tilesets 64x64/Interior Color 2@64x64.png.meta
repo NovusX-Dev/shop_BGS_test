@@ -6246,7 +6246,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TownInteriorColor2@64x64_254: 21300508
+      TownInteriorColor2@64x64_23: 21300046
       TownInteriorColor2@64x64_149: 21300298
       TownInteriorColor2@64x64_208: 21300416
       TownInteriorColor2@64x64_176: 21300352
@@ -6270,9 +6270,9 @@ TextureImporter:
       TownInteriorColor2@64x64_164: 21300328
       TownInteriorColor2@64x64_253: 21300506
       TownInteriorColor2@64x64_166: 21300332
+      TownInteriorColor2@64x64_154: 21300308
       TownInteriorColor2@64x64_61: 21300122
       TownInteriorColor2@64x64_92: 21300184
-      TownInteriorColor2@64x64_154: 21300308
       TownInteriorColor2@64x64_229: 21300458
       TownInteriorColor2@64x64_175: 21300350
       TownInteriorColor2@64x64_148: 21300296
@@ -6329,8 +6329,8 @@ TextureImporter:
       TownInteriorColor2@64x64_156: 21300312
       TownInteriorColor2@64x64_188: 21300376
       TownInteriorColor2@64x64_79: 21300158
-      TownInteriorColor2@64x64_150: 21300300
       TownInteriorColor2@64x64_185: 21300370
+      TownInteriorColor2@64x64_150: 21300300
       TownInteriorColor2@64x64_226: 21300452
       TownInteriorColor2@64x64_38: 21300076
       TownInteriorColor2@64x64_94: 21300188
@@ -6396,18 +6396,18 @@ TextureImporter:
       TownInteriorColor2@64x64_220: 21300440
       TownInteriorColor2@64x64_2: 21300004
       TownInteriorColor2@64x64_51: 21300102
+      TownInteriorColor2@64x64_193: 21300386
+      TownInteriorColor2@64x64_251: 21300502
       TownInteriorColor2@64x64_183: 21300366
       TownInteriorColor2@64x64_187: 21300374
-      TownInteriorColor2@64x64_251: 21300502
-      TownInteriorColor2@64x64_193: 21300386
       TownInteriorColor2@64x64_77: 21300154
-      TownInteriorColor2@64x64_237: 21300474
       TownInteriorColor2@64x64_96: 21300192
       TownInteriorColor2@64x64_4: 21300008
+      TownInteriorColor2@64x64_237: 21300474
       TownInteriorColor2@64x64_42: 21300084
-      TownInteriorColor2@64x64_210: 21300420
       TownInteriorColor2@64x64_215: 21300430
       TownInteriorColor2@64x64_244: 21300488
+      TownInteriorColor2@64x64_210: 21300420
       TownInteriorColor2@64x64_105: 21300210
       TownInteriorColor2@64x64_191: 21300382
       TownInteriorColor2@64x64_152: 21300304
@@ -6489,19 +6489,19 @@ TextureImporter:
       TownInteriorColor2@64x64_232: 21300464
       TownInteriorColor2@64x64_194: 21300388
       TownInteriorColor2@64x64_121: 21300242
+      TownInteriorColor2@64x64_254: 21300508
       TownInteriorColor2@64x64_11: 21300022
       TownInteriorColor2@64x64_80: 21300160
       TownInteriorColor2@64x64_129: 21300258
       TownInteriorColor2@64x64_130: 21300260
-      TownInteriorColor2@64x64_5: 21300010
       TownInteriorColor2@64x64_56: 21300112
       TownInteriorColor2@64x64_102: 21300204
+      TownInteriorColor2@64x64_5: 21300010
       TownInteriorColor2@64x64_6: 21300012
-      TownInteriorColor2@64x64_186: 21300372
       TownInteriorColor2@64x64_9: 21300018
       TownInteriorColor2@64x64_20: 21300040
       TownInteriorColor2@64x64_199: 21300398
-      TownInteriorColor2@64x64_23: 21300046
+      TownInteriorColor2@64x64_186: 21300372
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

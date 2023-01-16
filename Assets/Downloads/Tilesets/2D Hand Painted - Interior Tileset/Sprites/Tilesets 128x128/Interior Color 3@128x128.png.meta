@@ -6329,8 +6329,8 @@ TextureImporter:
       TownInteriorColor3@128x128_218: 21300436
       TownInteriorColor3@128x128_44: 21300088
       TownInteriorColor3@128x128_103: 21300206
-      TownInteriorColor3@128x128_121: 21300242
       TownInteriorColor3@128x128_196: 21300392
+      TownInteriorColor3@128x128_121: 21300242
       TownInteriorColor3@128x128_184: 21300368
       TownInteriorColor3@128x128_161: 21300322
       TownInteriorColor3@128x128_60: 21300120
@@ -6368,19 +6368,19 @@ TextureImporter:
       TownInteriorColor3@128x128_48: 21300096
       TownInteriorColor3@128x128_58: 21300116
       TownInteriorColor3@128x128_131: 21300262
-      TownInteriorColor3@128x128_1: 21300002
-      TownInteriorColor3@128x128_186: 21300372
       TownInteriorColor3@128x128_223: 21300446
+      TownInteriorColor3@128x128_233: 21300466
+      TownInteriorColor3@128x128_1: 21300002
       TownInteriorColor3@128x128_66: 21300132
       TownInteriorColor3@128x128_185: 21300370
-      TownInteriorColor3@128x128_233: 21300466
+      TownInteriorColor3@128x128_238: 21300476
       TownInteriorColor3@128x128_70: 21300140
       TownInteriorColor3@128x128_211: 21300422
       TownInteriorColor3@128x128_92: 21300184
       TownInteriorColor3@128x128_54: 21300108
       TownInteriorColor3@128x128_59: 21300118
-      TownInteriorColor3@128x128_238: 21300476
       TownInteriorColor3@128x128_236: 21300472
+      TownInteriorColor3@128x128_186: 21300372
       TownInteriorColor3@128x128_101: 21300202
       TownInteriorColor3@128x128_160: 21300320
       TownInteriorColor3@128x128_5: 21300010
@@ -6403,14 +6403,14 @@ TextureImporter:
       TownInteriorColor3@128x128_251: 21300502
       TownInteriorColor3@128x128_163: 21300326
       TownInteriorColor3@128x128_13: 21300026
-      TownInteriorColor3@128x128_28: 21300056
       TownInteriorColor3@128x128_200: 21300400
+      TownInteriorColor3@128x128_28: 21300056
       TownInteriorColor3@128x128_162: 21300324
       TownInteriorColor3@128x128_136: 21300272
       TownInteriorColor3@128x128_176: 21300352
+      TownInteriorColor3@128x128_206: 21300412
       TownInteriorColor3@128x128_65: 21300130
       TownInteriorColor3@128x128_50: 21300100
-      TownInteriorColor3@128x128_206: 21300412
       TownInteriorColor3@128x128_231: 21300462
       TownInteriorColor3@128x128_240: 21300480
       TownInteriorColor3@128x128_10: 21300020

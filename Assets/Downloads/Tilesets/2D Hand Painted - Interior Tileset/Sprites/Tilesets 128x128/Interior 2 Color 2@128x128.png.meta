@@ -6247,7 +6247,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Interior 2 Color 2@128x128_51: 21300102
-      Interior 2 Color 2@128x128_234: 21300468
+      Interior 2 Color 2@128x128_164: 21300328
       Interior 2 Color 2@128x128_10: 21300020
       Interior 2 Color 2@128x128_0: 21300000
       Interior 2 Color 2@128x128_241: 21300482
@@ -6308,8 +6308,8 @@ TextureImporter:
       Interior 2 Color 2@128x128_88: 21300176
       Interior 2 Color 2@128x128_112: 21300224
       Interior 2 Color 2@128x128_9: 21300018
-      Interior 2 Color 2@128x128_28: 21300056
       Interior 2 Color 2@128x128_194: 21300388
+      Interior 2 Color 2@128x128_28: 21300056
       Interior 2 Color 2@128x128_86: 21300172
       Interior 2 Color 2@128x128_94: 21300188
       Interior 2 Color 2@128x128_157: 21300314
@@ -6370,27 +6370,26 @@ TextureImporter:
       Interior 2 Color 2@128x128_92: 21300184
       Interior 2 Color 2@128x128_226: 21300452
       Interior 2 Color 2@128x128_27: 21300054
-      Interior 2 Color 2@128x128_227: 21300454
       Interior 2 Color 2@128x128_240: 21300480
-      Interior 2 Color 2@128x128_195: 21300390
+      Interior 2 Color 2@128x128_227: 21300454
       Interior 2 Color 2@128x128_166: 21300332
       Interior 2 Color 2@128x128_206: 21300412
+      Interior 2 Color 2@128x128_195: 21300390
       Interior 2 Color 2@128x128_171: 21300342
       Interior 2 Color 2@128x128_237: 21300474
       Interior 2 Color 2@128x128_8: 21300016
       Interior 2 Color 2@128x128_222: 21300444
       Interior 2 Color 2@128x128_5: 21300010
-      Interior 2 Color 2@128x128_33: 21300066
       Interior 2 Color 2@128x128_96: 21300192
-      Interior 2 Color 2@128x128_3: 21300006
       Interior 2 Color 2@128x128_154: 21300308
+      Interior 2 Color 2@128x128_33: 21300066
+      Interior 2 Color 2@128x128_3: 21300006
       Interior 2 Color 2@128x128_49: 21300098
       Interior 2 Color 2@128x128_40: 21300080
       Interior 2 Color 2@128x128_191: 21300382
       Interior 2 Color 2@128x128_159: 21300318
       Interior 2 Color 2@128x128_101: 21300202
       Interior 2 Color 2@128x128_102: 21300204
-      Interior 2 Color 2@128x128_143: 21300286
       Interior 2 Color 2@128x128_235: 21300470
       Interior 2 Color 2@128x128_253: 21300506
       Interior 2 Color 2@128x128_186: 21300372
@@ -6399,10 +6398,11 @@ TextureImporter:
       Interior 2 Color 2@128x128_70: 21300140
       Interior 2 Color 2@128x128_22: 21300044
       Interior 2 Color 2@128x128_84: 21300168
-      Interior 2 Color 2@128x128_220: 21300440
+      Interior 2 Color 2@128x128_143: 21300286
       Interior 2 Color 2@128x128_123: 21300246
       Interior 2 Color 2@128x128_87: 21300174
       Interior 2 Color 2@128x128_91: 21300182
+      Interior 2 Color 2@128x128_220: 21300440
       Interior 2 Color 2@128x128_98: 21300196
       Interior 2 Color 2@128x128_243: 21300486
       Interior 2 Color 2@128x128_106: 21300212
@@ -6412,13 +6412,13 @@ TextureImporter:
       Interior 2 Color 2@128x128_254: 21300508
       Interior 2 Color 2@128x128_161: 21300322
       Interior 2 Color 2@128x128_12: 21300024
-      Interior 2 Color 2@128x128_83: 21300166
       Interior 2 Color 2@128x128_68: 21300136
-      Interior 2 Color 2@128x128_113: 21300226
       Interior 2 Color 2@128x128_104: 21300208
-      Interior 2 Color 2@128x128_120: 21300240
+      Interior 2 Color 2@128x128_113: 21300226
+      Interior 2 Color 2@128x128_83: 21300166
       Interior 2 Color 2@128x128_209: 21300418
       Interior 2 Color 2@128x128_19: 21300038
+      Interior 2 Color 2@128x128_120: 21300240
       Interior 2 Color 2@128x128_247: 21300494
       Interior 2 Color 2@128x128_25: 21300050
       Interior 2 Color 2@128x128_115: 21300230
@@ -6501,7 +6501,7 @@ TextureImporter:
       Interior 2 Color 2@128x128_174: 21300348
       Interior 2 Color 2@128x128_36: 21300072
       Interior 2 Color 2@128x128_44: 21300088
-      Interior 2 Color 2@128x128_164: 21300328
+      Interior 2 Color 2@128x128_234: 21300468
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
