@@ -18,7 +18,7 @@ public class InventoryItemPrefab : MonoBehaviour
 
     private int _quantity = 0;
     private ItemSo _currentData = null;
-    private GlobalEnums.EquipmentType equipmentType = GlobalEnums.EquipmentType.Invalid;
+    private GlobalEnums.EquipmentType _equipmentType = GlobalEnums.EquipmentType.Invalid;
 
     #endregion
 
@@ -59,7 +59,7 @@ public class InventoryItemPrefab : MonoBehaviour
     public void SetBodyEquipment(PlayerBodyEquipment body)
     {
         CurrentBodyEquipment = body;
-        equipmentType = body == null ? GlobalEnums.EquipmentType.Invalid : body.SlotType;
+        _equipmentType = body == null ? GlobalEnums.EquipmentType.Invalid : body.SlotType;
     }
 
     public void UpdateQuantity(int amount)

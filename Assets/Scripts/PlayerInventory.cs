@@ -127,17 +127,23 @@ public class PlayerInventory : MonoBehaviour
         foreach(var slot in _playerEquipSlots)
         {
             slot.EquipItem(_currentlySelectedItem.CurrentData, ref equipped);
-            if (!equipped) continue;
-            _currentlySelectedItem.Equipped = true;
-            _currentlySelectedItem.SetBodyEquipment(slot);
+            if (equipped)
+            {
+                _currentlySelectedItem.Equipped = true;
+                _currentlySelectedItem.SetBodyEquipment(slot);
+                CloseShop();
+                break;
+            }
         }
     }
 
     public void UnEquipItem()
     {
+        if (_currentlySelectedItem == null || !_currentlySelectedItem.Equipped) return;
         _currentlySelectedItem.Equipped = false;
         _currentlySelectedItem.CurrentBodyEquipment.UnEquipItem();
         _currentlySelectedItem.SetBodyEquipment(null);
+        CloseShop();
     }
     
     public void CloseShop()

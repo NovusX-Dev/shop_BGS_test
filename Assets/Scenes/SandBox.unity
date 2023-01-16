@@ -1234,7 +1234,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2985cfab5ebfcc24ba7a2e25db95d5c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
   shopItemSos: {fileID: 11400000, guid: eb621c1cbf2022843a501e52e8ff9430, type: 2}
   itemsContainer: {fileID: 1105961350}
   itemPrefab: {fileID: 5070351733709915797, guid: a02d9bfe5ecfe514a81098b987e0a565, type: 3}
@@ -1376,7 +1375,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 259805443}
   m_CullTransparentMesh: 1
-=======
   shopItem:
   - {fileID: 11400000, guid: 6068c933b725cad489f9a2baf4290315, type: 2}
   - {fileID: 11400000, guid: 52dd6f9cdef2e9f4b86180c9542b40f4, type: 2}
@@ -1388,7 +1386,6 @@ CanvasRenderer:
   _itemsContainer: {fileID: 1105961350}
   _itemPrefab: {fileID: 7429731564049370496, guid: a02d9bfe5ecfe514a81098b987e0a565, type: 3}
   _notEnoughCoinsTxt: {fileID: 134363300}
->>>>>>> parent of fb5eda5 (Added text to display sale status)
 --- !u!1 &262506287
 GameObject:
   m_ObjectHideFlags: 0
